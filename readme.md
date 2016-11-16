@@ -1,3 +1,9 @@
+## NOTE! I did not write this abomination
+
+I [tried to fix it but they wouldn't accept my PR](https://github.com/bfeldman/fake-site-alert/pull/7). 😢
+
+----------
+
 ### Summary
 
 Simple browser extension that checks the current URL, and displays a banner at the top of the page warning them of dubious content.
