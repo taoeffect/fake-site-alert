@@ -5,7 +5,7 @@ striped_lines_box.style.cssText = "background-image: url(https://i.imgur.com/m5W
 
 var inner_text = document.createElement('span');
 inner_text.textContent = "This is a known fake news site!";
-inner_text.style.cssText = "font-family: 'Lucida Console', Monaco, monospacecolor: white; margin: auto; background: black; display: block; height: 20px; width: 300px; text-align: center; font-size: 14px;";
+inner_text.style.cssText = "font-family: 'Lucida Console', Monaco, monospace; color: white; margin: auto; background: black; display: block; height: 20px; width: 300px; text-align: center; font-size: 14px;";
 
 striped_lines_box.appendChild(inner_text);
 

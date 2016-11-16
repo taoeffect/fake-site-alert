@@ -1,6 +1,6 @@
 {
   "name": "Fake News Alert",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "manifest_version": 2,
   "description": "Alerts you if you are viewing a fake news site",
   "homepage_url": "http://nymag.com",
