@@ -1,8 +1,8 @@
 {
-  "name": "fake site alert",
-  "version": "0.0.1",
+  "name": "Fake News Alert",
+  "version": "0.0.2",
   "manifest_version": 2,
-  "description": "alerts you if this is a fake site",
+  "description": "Alerts you if you are viewing a fake news site",
   "homepage_url": "http://nymag.com",
   "browser_action": {
     "default_icon": "icons/icon48.png"
